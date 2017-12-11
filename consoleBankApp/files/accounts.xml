@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><accounts>
+				<account name="DefaultAccount">
+								<balance>3</balance>
+				</account>
+				<account name="MyAccount">
+								<balance>103</balance>
+				</account>
+</accounts>
